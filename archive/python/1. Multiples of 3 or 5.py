@@ -1,4 +1,4 @@
-#1.Multiples of 3 or 5
+#1. Multiples of 3 or 5
 
 def sum_multiples_of_5_and_3(n):
 
