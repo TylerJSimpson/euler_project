@@ -1,2 +1,2 @@
-# euler_project
-https://projecteuler.net/
+# **[Project Euler](https://projecteuler.net/archives)**
+
